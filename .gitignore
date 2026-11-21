@@ -1,0 +1,28 @@
+# Credentials and secrets
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+client_secret*.json
+secrets/
+
+# Private campaign data
+private_contacts.xlsx
+private_contacts.csv
+campaign_data/
+*.pem
+*.key
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment
+venv/
+.venv/
