@@ -1,9 +1,6 @@
-# Email-Outreach-Manager-System
-A Python-based email outreach automation system using Google Colab, Google Sheets and Gmail API, featuring persistent tracking, batch controls and interruption recovery.
-
 # Email Outreach Manager System
 
-A Python-based email outreach automation system built with Google Colab, Google Sheets, and the Gmail API.
+A Python-based email outreach automation system using Google Colab, Google Sheets and Gmail API, featuring persistent tracking, batch controls and interruption recovery.
 
 The project helps users manage structured email campaigns with contact-level tracking, controlled sending, persistent campaign records, and recovery mechanisms for interrupted execution.
 
